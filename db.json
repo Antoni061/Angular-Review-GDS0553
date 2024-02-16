@@ -1,0 +1,58 @@
+{
+  "users": [
+    {
+      "id": "aa3c",
+      "fullname": "eduardo",
+      "email": "eduardo@gmail.com",
+      "password": "eduardo12"
+    },
+    {
+      "id": "c3ad",
+      "fullname": "Gabriel",
+      "email": "barron@gmail.com",
+      "password": "12345"
+    },
+    {
+      "id": "3e3c",
+      "fullname": "",
+      "email": "",
+      "password": ""
+    },
+    {
+      "id": "2e15",
+      "fullname": "",
+      "email": "",
+      "password": ""
+    },
+    {
+      "id": "bad5",
+      "fullname": "eduardo",
+      "email": "eduardo@gmail.com",
+      "password": "12345"
+    },
+    {
+      "id": "dc0f",
+      "fullname": "eduardo ",
+      "email": "eduardo@zapatero",
+      "password": "eduardo12"
+    },
+    {
+      "id": "2eb9",
+      "fullname": "eduardo",
+      "email": "antonio@gmail.com",
+      "password": "eduardo12"
+    },
+    {
+      "id": "837e",
+      "fullname": "eduardo1121",
+      "email": "antonio@gmail.com",
+      "password": "edardo12"
+    },
+    {
+      "id": "386f",
+      "fullname": "",
+      "email": "",
+      "password": "eduardo12"
+    }
+  ]
+}
