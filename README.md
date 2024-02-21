@@ -19,6 +19,6 @@
 ## Ingresa URL
 - http://localhost:4200
 
-##Liga de laa capturas de el proyecto 
+## Liga de laa capturas de el proyecto 
 - https://drive.google.com/drive/folders/1w1SLJgjLFBwT4NyHUOgQfrzLvs2Col0d?usp=sharing
 
